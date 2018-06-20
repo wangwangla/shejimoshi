@@ -16,4 +16,5 @@ public class InnerClassSingleton {
     public static InnerClassSingleton getInatce(){
         return Instance.instance;
     }
+
 }
