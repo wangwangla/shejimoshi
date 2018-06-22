@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="使用工厂的方式创建，添加UML图">
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/test/jdgc/App/Client01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory/src/kw/test/jdgc/Demo01.java" beforeDir="false" />
+    <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/CarFactory02.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Carfactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Carfactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="225">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,11 +108,27 @@
                   <point x="-8.5" y="15.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-269.5" y="60.5" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-269.5" y="61.0" />
               <SelectedNodes />
               <Categories />
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarFactory02.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/CarFactory02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,6 +176,7 @@
         <option value="$PROJECT_DIR$/factory/src/笔记.txt" />
         <option value="$PROJECT_DIR$/factory/src/kw/test/jdgc/App/Client01.java" />
         <option value="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java" />
+        <option value="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/CarFactory02.java" />
       </list>
     </option>
   </component>
@@ -401,7 +415,7 @@
       <workItem from="1529389100318" duration="3944000" />
       <workItem from="1529496447027" duration="3137000" />
       <workItem from="1529670158682" duration="1487000" />
-      <workItem from="1529671939837" duration="3065000" />
+      <workItem from="1529671939837" duration="3873000" />
     </task>
     <task id="LOCAL-00001" summary="懒汉式破解，使用反射的方法">
       <created>1529497716007</created>
@@ -445,11 +459,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529673483014</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="使用工厂的方式创建，添加UML图">
+      <created>1529675065054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529675065054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11633000" />
+    <option name="totallyTimeSpent" value="12441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -457,11 +478,11 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49926794" visible="true" weight="0.4929134" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49926794" visible="true" weight="0.20787401" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.4929134" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.20787401" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -934,6 +955,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/App/Client01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="uml://JAVA/kw.test.jdgc.App.Client01">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -995,7 +1036,7 @@
               <point x="-8.5" y="15.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-269.5" y="60.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-269.5" y="61.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1003,22 +1044,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/App/Client01.java">
+    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/CarFactory02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="375">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
           </folding>
         </state>
       </provider>

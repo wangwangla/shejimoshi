@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>kw.test.jdgc.App.Client</OriginalElement>
+  <nodes>
+    <node x="0.0" y="157.0">kw.test.jdgc.App.Client</node>
+    <node x="95.0" y="81.0">kw.test.jdgc.impl.Byd</node>
+    <node x="49.75" y="0.0">kw.test.jdgc.Car</node>
+    <node x="0.0" y="81.0">kw.test.jdgc.impl.Aodi</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="kw.test.jdgc.impl.Aodi" target="kw.test.jdgc.Car">
+      <point x="0.0" y="-15.5" />
+      <point x="37.5" y="56.0" />
+      <point x="66.75" y="56.0" />
+      <point x="-17.0" y="15.5" />
+    </edge>
+    <edge source="kw.test.jdgc.impl.Byd" target="kw.test.jdgc.Car">
+      <point x="0.0" y="-15.5" />
+      <point x="130.0" y="56.0" />
+      <point x="100.75" y="56.0" />
+      <point x="17.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="85.0" y="96.5" />
+  <SelectedNodes>
+    <node>kw.test.jdgc.App.Client</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
