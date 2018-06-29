@@ -1,0 +1,8 @@
+建造者模式
+    首先创建一个AirShip
+    创建所需要的模块
+    创建builder
+    创建direct
+
+    实现builder
+    实现direct
