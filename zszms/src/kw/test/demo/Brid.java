@@ -1,3 +1,4 @@
+package kw.test.demo;
 /**
  * 装饰着模式
  */

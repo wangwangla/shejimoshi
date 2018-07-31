@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/fwzms/fwzms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/AmmeterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/Vister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/impl/HomeVister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ztms/ztms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,7 +109,7 @@
                   <point x="0.0" y="15.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="312.5" y="49.5" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="309.5" y="49.5" />
               <SelectedNodes>
                 <node>kw.test.fwzms.element.AmmeterElement</node>
               </SelectedNodes>
@@ -246,9 +239,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,6 +302,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -480,6 +473,7 @@
       <workItem from="1532859915084" duration="52000" />
       <workItem from="1532865321915" duration="83000" />
       <workItem from="1532911642696" duration="41000" />
+      <workItem from="1533002058426" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="懒汉式破解，使用反射的方法">
       <created>1529497716007</created>
@@ -590,33 +584,34 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28764000" />
+    <option name="totallyTimeSpent" value="29059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5098336" side_tool="true" visible="true" weight="0.4003268" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51059" side_tool="true" visible="true" weight="0.4003268" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49016643" visible="true" weight="0.4003268" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.296063" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48940998" visible="true" weight="0.4003268" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="UML design tool window" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49926794" weight="0.20787401" />
@@ -1252,7 +1247,7 @@
               <point x="0.0" y="15.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="312.5" y="49.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="309.5" y="49.5" />
           <SelectedNodes>
             <node>kw.test.fwzms.element.AmmeterElement</node>
           </SelectedNodes>
