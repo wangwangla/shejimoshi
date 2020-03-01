@@ -1,143 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/AirShip.java" line="13" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/Pojie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/EnumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/fanxuliehua.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/新建文本文档.txt" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StrategyA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/celue/StrategyA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StrategyB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/celue/StrategyB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AverageScore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/nocelue/AverageScore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="9" selection-start-line="12" selection-start-column="2" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="策略笔记.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/celiemoshi/策略笔记.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vister.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/Vister.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AmmeterElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/AmmeterElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Element.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/kw.test.fwzms.element.AmmeterElement" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/kw.test.fwzms.element.AmmeterElement">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>kw.test.fwzms.element.AmmeterElement</OriginalElement>
-              <nodes>
-                <node x="17.5" y="157.0">kw.test.fwzms.vister.Vister</node>
-                <node x="0.0" y="238.0">kw.test.fwzms.vister.impl.HomeVister</node>
-                <node x="26.5" y="81.0">kw.test.fwzms.element.impl.Element</node>
-                <node x="0.0" y="0.0">kw.test.fwzms.element.AmmeterElement</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="kw.test.fwzms.element.impl.Element" target="kw.test.fwzms.element.AmmeterElement">
-                  <point x="0.0" y="-15.5" />
-                  <point x="0.0" y="15.5" />
-                </edge>
-                <edge source="kw.test.fwzms.vister.impl.HomeVister" target="kw.test.fwzms.vister.Vister">
-                  <point x="0.0" y="-15.5" />
-                  <point x="0.0" y="15.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="309.5" y="49.5" />
-              <SelectedNodes>
-                <node>kw.test.fwzms.element.AmmeterElement</node>
-              </SelectedNodes>
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeVister.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/impl/HomeVister.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fwzms.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fwzms/fwzms.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -150,69 +32,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/CarFactory02.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/gcff/Car.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/gcff/CarFactory.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/CarFactory.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/AodiFactory.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Aodi.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Byd.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/Car.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/Engine.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/Engine.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiEngine.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/Seat.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/Tyre.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiSeat.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiTyre.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/CarFactory.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiFactory.java" />
-        <option value="$PROJECT_DIR$/factory/src/笔记.txt" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/EcopeTower/OrbitalModule.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/OrbitalModule.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/bean/OrbitalModule.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/bean/EcopeTower.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/bean/Engine.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/AirShip.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/builder/AirShipBuilder.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/direct/AirShipBuilder.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/kw/kweAirShip.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/kw/kwAirShip.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/kw/kwAirShipBuilder.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/kwdirect/kwAirShipDriect.java" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jzzms/笔记.txt" />
-        <option value="$PROJECT_DIR$/factory/src/说明1.txt" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/jdgc/笔记.txt" />
-        <option value="$PROJECT_DIR$/factory/src/kw/test/gcff/笔记.txt" />
-        <option value="$PROJECT_DIR$/celiemoshi/src/kw/test/demo/AverageScore02.java" />
-        <option value="$PROJECT_DIR$/celiemoshi/src/kw/test/demo/AverageScore.java" />
-        <option value="$PROJECT_DIR$/celiemoshi/src/kw/test/demo/AverageScoreTest.java" />
-        <option value="$PROJECT_DIR$/celiemoshi/src/kw/test/celue/Strategy.java" />
-        <option value="$PROJECT_DIR$/celiemoshi/src/kw/test/celue/AverageScore.java" />
-        <option value="$PROJECT_DIR$/celiemoshi/src/kw/test/celue/StrategyA.java" />
-        <option value="$PROJECT_DIR$/celiemoshi/src/kw/test/celue/StrategyB.java" />
-        <option value="$PROJECT_DIR$/celiemoshi/策略笔记.txt" />
-        <option value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/Demo.java" />
-        <option value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/fwzms/Demo.java" />
-        <option value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/fwzms/Vister.java" />
-        <option value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/AmmeterElement.java" />
-        <option value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/Vister.java" />
-        <option value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/impl/HomeVister.java" />
-        <option value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -222,90 +41,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
+  <component name="ProjectId" id="1YW58AfsOMkBU8llm6zUC9m0lF0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="element" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="element" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="vister" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shejimoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fwzms" type="462c0819:PsiDirectoryNode" />
-              <item name="vister" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -321,7 +64,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -341,19 +84,7 @@
       <recent name="kw.test.jzzms.EcopeTower" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Pojie">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.jdgc.App.Client" />
       <module name="factory" />
@@ -364,17 +95,37 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="PoJie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.test.demo.PoJie" />
-      <module name="singletonpojie" />
+    <configuration name="EnumSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.danli.EnumSingleton" />
+      <module name="singleton" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kw.test.nocelue.*" />
+          <option name="PATTERN" value="kw.test.danli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LanhanSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.danli.LanhanSingleton" />
+      <module name="singleton" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kw.test.danli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="PoJie" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.demo.PoJie" />
@@ -386,8 +137,25 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Pojie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.danli.Pojie" />
+      <module name="singleton" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kw.test.danli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="fanxuliehua" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.danli.fanxuliehua" />
@@ -399,55 +167,40 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PoJie" />
       <item itemvalue="Application.fanxuliehua" />
       <item itemvalue="Application.Client" />
+      <item itemvalue="Application.LanhanSingleton" />
+      <item itemvalue="Application.EnumSingleton" />
+      <item itemvalue="Application.Pojie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pojie" />
+        <item itemvalue="Application.EnumSingleton" />
+        <item itemvalue="Application.LanhanSingleton" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.fanxuliehua" />
-        <item itemvalue="Application.PoJie" />
       </list>
     </recent_temporary>
   </component>
@@ -474,6 +227,7 @@
       <workItem from="1532865321915" duration="83000" />
       <workItem from="1532911642696" duration="41000" />
       <workItem from="1533002058426" duration="295000" />
+      <workItem from="1583045350636" duration="4221000" />
     </task>
     <task id="LOCAL-00001" summary="懒汉式破解，使用反射的方法">
       <created>1529497716007</created>
@@ -583,44 +337,6 @@
     <option name="localTasksCounter" value="16" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29059000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51059" side_tool="true" visible="true" weight="0.4003268" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.296063" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48940998" visible="true" weight="0.4003268" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="UML design tool window" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49926794" weight="0.20787401" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -640,28 +356,12 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="懒汉式破解，使用反射的方法" />
@@ -679,584 +379,27 @@
     <MESSAGE value="策略模式的使用和处理方式" />
     <option name="LAST_COMMIT_MESSAGE" value="策略模式的使用和处理方式" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/App/Client01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/kw.test.jdgc.App.Client01">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>kw.test.jdgc.App.Client01</OriginalElement>
-          <nodes>
-            <node x="70.78125" y="162.0">kw.test.jdgc.factory.Carfactory</node>
-            <node x="95.0" y="81.0">kw.test.jdgc.impl.Byd</node>
-            <node x="115.25" y="243.0">kw.test.jdgc.App.Client01</node>
-            <node x="120.34375" y="0.0">kw.test.jdgc.Car</node>
-            <node x="0.0" y="81.0">kw.test.jdgc.impl.Aodi</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="kw.test.jdgc.impl.Aodi" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="37.5" y="51.0" />
-              <point x="128.84375" y="51.0" />
-              <point x="-25.5" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.impl.Byd">
-              <point x="0.0" y="-15.5" />
-              <point x="124.78125" y="137.0" />
-              <point x="130.0" y="137.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.App.Client01" target="kw.test.jdgc.Car">
-              <point x="23.5" y="-15.5" />
-              <point x="185.75" y="218.0" />
-              <point x="196.84375" y="218.0" />
-              <point x="196.84375" y="51.0" />
-              <point x="179.84375" y="51.0" />
-              <point x="25.5" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.App.Client01" target="kw.test.jdgc.factory.Carfactory">
-              <point x="-23.5" y="-15.5" />
-              <point x="138.75" y="218.0" />
-              <point x="124.78125" y="218.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.impl.Aodi">
-              <point x="-36.0" y="-15.5" />
-              <point x="88.78125" y="137.0" />
-              <point x="37.5" y="137.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.Car">
-              <point x="36.0" y="-15.5" />
-              <point x="160.78125" y="137.0" />
-              <point x="179.5" y="137.0" />
-              <point x="179.5" y="61.0" />
-              <point x="162.84375" y="61.0" />
-              <point x="8.5" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.impl.Byd" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="130.0" y="61.0" />
-              <point x="145.84375" y="61.0" />
-              <point x="-8.5" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-269.0" y="61.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/CarFactory02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/kw.test.jdgc.factory.CarFactory02">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>kw.test.jdgc.factory.CarFactory02</OriginalElement>
-          <nodes>
-            <node x="-228.0" y="-35.0">kw.test.jdgc.impl.Byd</node>
-            <node x="-260.31666666666666" y="46.0">kw.test.jdgc.factory.CarFactory02</node>
-            <node x="-227.0" y="-116.0">kw.test.jdgc.Car</node>
-            <node x="-323.0" y="-35.0">kw.test.jdgc.impl.Aodi</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="kw.test.jdgc.impl.Aodi" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="-285.5" y="-60.0" />
-              <point x="-215.66666666666666" y="-60.0" />
-              <point x="-22.66666666666667" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.CarFactory02" target="kw.test.jdgc.impl.Aodi">
-              <point x="-41.33333333333334" y="-15.5" />
-              <point x="-239.65" y="21.0" />
-              <point x="-285.5" y="21.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.CarFactory02" target="kw.test.jdgc.Car">
-              <point x="41.33333333333334" y="-15.5" />
-              <point x="-156.98333333333332" y="21.0" />
-              <point x="-147.5" y="21.0" />
-              <point x="-147.5" y="-60.0" />
-              <point x="-170.33333333333331" y="-60.0" />
-              <point x="22.666666666666686" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.impl.Byd" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.CarFactory02" target="kw.test.jdgc.impl.Byd">
-              <point x="0.0" y="-15.5" />
-              <point x="-198.31666666666666" y="21.0" />
-              <point x="-193.0" y="21.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-254.0" y="33.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/NoUML.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>kw.test.jdgc.App.Client</OriginalElement>
-          <nodes>
-            <node x="0.0" y="157.0">kw.test.jdgc.App.Client</node>
-            <node x="0.0" y="81.0">kw.test.jdgc.impl.Byd</node>
-            <node x="47.25" y="0.0">kw.test.jdgc.Car</node>
-            <node x="90.0" y="81.0">kw.test.jdgc.impl.Aodi</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="kw.test.jdgc.impl.Aodi" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="127.5" y="56.0" />
-              <point x="98.25" y="56.0" />
-              <point x="17.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.impl.Byd" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="35.0" y="56.0" />
-              <point x="64.25" y="56.0" />
-              <point x="-17.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-234.0" y="111.0" />
-          <SelectedNodes>
-            <node>kw.test.jdgc.App.Client</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/Facroty.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>kw.test.jdgc.App.Client01</OriginalElement>
-          <nodes>
-            <node x="70.78125" y="162.0">kw.test.jdgc.factory.Carfactory</node>
-            <node x="95.0" y="81.0">kw.test.jdgc.impl.Byd</node>
-            <node x="115.25" y="243.0">kw.test.jdgc.App.Client01</node>
-            <node x="120.34375" y="0.0">kw.test.jdgc.Car</node>
-            <node x="0.0" y="81.0">kw.test.jdgc.impl.Aodi</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="kw.test.jdgc.impl.Aodi" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="37.5" y="51.0" />
-              <point x="128.84375" y="51.0" />
-              <point x="-25.5" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.impl.Byd">
-              <point x="0.0" y="-15.5" />
-              <point x="124.78125" y="137.0" />
-              <point x="130.0" y="137.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.App.Client01" target="kw.test.jdgc.Car">
-              <point x="23.5" y="-15.5" />
-              <point x="185.75" y="218.0" />
-              <point x="196.84375" y="218.0" />
-              <point x="196.84375" y="51.0" />
-              <point x="179.84375" y="51.0" />
-              <point x="25.5" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.App.Client01" target="kw.test.jdgc.factory.Carfactory">
-              <point x="-23.5" y="-15.5" />
-              <point x="138.75" y="218.0" />
-              <point x="124.78125" y="218.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.impl.Aodi">
-              <point x="-36.0" y="-15.5" />
-              <point x="88.78125" y="137.0" />
-              <point x="37.5" y="137.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.Car">
-              <point x="36.0" y="-15.5" />
-              <point x="160.78125" y="137.0" />
-              <point x="179.5" y="137.0" />
-              <point x="179.5" y="61.0" />
-              <point x="162.84375" y="61.0" />
-              <point x="8.5" y="15.5" />
-            </edge>
-            <edge source="kw.test.jdgc.impl.Byd" target="kw.test.jdgc.Car">
-              <point x="0.0" y="-15.5" />
-              <point x="130.0" y="61.0" />
-              <point x="145.84375" y="61.0" />
-              <point x="-8.5" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-489.0" y="-13.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/gcff/impl/AodiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Byd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/Car.java" />
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/Seat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiSeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiTyre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/EcopeTower/OrbitalModule.java" />
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/bean/h.java" />
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/bean/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/bean/EcopeTower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/AirShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/bean/OrbitalModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/direct/AirShipDirect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jdgc/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/builder/AirShipBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/说明1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/kwbuilder/kwAirShipBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/jzzms/kwdirect/kwAirShipDriect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Aodi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/gcff/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/gcff/CarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/gcff/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/Tyre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/demo/AverageScoreTest.java" />
-    <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/nocelue/AverageScore02.java" />
-    <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/celue/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/CarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/kw/test/cxgc/impl/LiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/celue/AverageScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/nocelue/AverageScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="9" selection-start-line="12" selection-start-column="2" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/celue/StrategyA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/celiemoshi/src/kw/test/celue/StrategyB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/celiemoshi/策略笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fwzms/fwzms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/Vister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/impl/HomeVister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/AmmeterElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/kw.test.fwzms.element.AmmeterElement">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>kw.test.fwzms.element.AmmeterElement</OriginalElement>
-          <nodes>
-            <node x="17.5" y="157.0">kw.test.fwzms.vister.Vister</node>
-            <node x="0.0" y="238.0">kw.test.fwzms.vister.impl.HomeVister</node>
-            <node x="26.5" y="81.0">kw.test.fwzms.element.impl.Element</node>
-            <node x="0.0" y="0.0">kw.test.fwzms.element.AmmeterElement</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="kw.test.fwzms.element.impl.Element" target="kw.test.fwzms.element.AmmeterElement">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="kw.test.fwzms.vister.impl.HomeVister" target="kw.test.fwzms.vister.Vister">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="309.5" y="49.5" />
-          <SelectedNodes>
-            <node>kw.test.fwzms.element.AmmeterElement</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="829" height="246" key="GridCell.Tab.0.bottom" timestamp="1583055779503">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="829" height="246" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779503" />
+    <state width="829" height="246" key="GridCell.Tab.0.center" timestamp="1583055779503">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="829" height="246" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779503" />
+    <state width="829" height="246" key="GridCell.Tab.0.left" timestamp="1583055779502">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="829" height="246" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779502" />
+    <state width="829" height="246" key="GridCell.Tab.0.right" timestamp="1583055779503">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="829" height="246" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779503" />
+    <state x="357" y="159" key="SettingsEditor" timestamp="1583054474505">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="357" y="159" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1583054474505" />
   </component>
   <component name="masterDetails">
     <states>

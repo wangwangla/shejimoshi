@@ -17,4 +17,8 @@ public class InnerClassSingleton {
         return Instance.instance;
     }
 
+    public static void main(String[] args) {
+        InnerClassSingleton singleton = new InnerClassSingleton();
+        System.out.println(Instance.instance);
+    }
 }
