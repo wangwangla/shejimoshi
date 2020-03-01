@@ -3,63 +3,31 @@
   <ID>JAVA</ID>
   <OriginalElement>kw.test.jdgc.App.Client01</OriginalElement>
   <nodes>
-    <node x="70.78125" y="162.0">kw.test.jdgc.factory.Carfactory</node>
-    <node x="95.0" y="81.0">kw.test.jdgc.impl.Byd</node>
-    <node x="115.25" y="243.0">kw.test.jdgc.App.Client01</node>
-    <node x="120.34375" y="0.0">kw.test.jdgc.Car</node>
-    <node x="0.0" y="81.0">kw.test.jdgc.impl.Aodi</node>
+    <node x="280.76923076923066" y="-8.846153846153811">kw.test.jdgc.factory.Carfactory</node>
+    <node x="106.0" y="85.0">kw.test.jdgc.impl.Byd</node>
+    <node x="0.0" y="245.0">kw.test.jdgc.App.Client01</node>
+    <node x="0.0" y="85.0">kw.test.jdgc.impl.Aodi</node>
+    <node x="55.5" y="0.0">kw.test.jdgc.Car</node>
   </nodes>
   <notes />
   <edges>
     <edge source="kw.test.jdgc.impl.Aodi" target="kw.test.jdgc.Car">
-      <point x="0.0" y="-15.5" />
-      <point x="37.5" y="51.0" />
-      <point x="128.84375" y="51.0" />
-      <point x="-25.5" y="15.5" />
-    </edge>
-    <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.impl.Byd">
-      <point x="0.0" y="-15.5" />
-      <point x="124.78125" y="137.0" />
-      <point x="130.0" y="137.0" />
-      <point x="0.0" y="15.5" />
-    </edge>
-    <edge source="kw.test.jdgc.App.Client01" target="kw.test.jdgc.Car">
-      <point x="23.5" y="-15.5" />
-      <point x="185.75" y="218.0" />
-      <point x="196.84375" y="218.0" />
-      <point x="196.84375" y="51.0" />
-      <point x="179.84375" y="51.0" />
-      <point x="25.5" y="15.5" />
-    </edge>
-    <edge source="kw.test.jdgc.App.Client01" target="kw.test.jdgc.factory.Carfactory">
-      <point x="-23.5" y="-15.5" />
-      <point x="138.75" y="218.0" />
-      <point x="124.78125" y="218.0" />
-      <point x="0.0" y="15.5" />
-    </edge>
-    <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.impl.Aodi">
-      <point x="-36.0" y="-15.5" />
-      <point x="88.78125" y="137.0" />
-      <point x="37.5" y="137.0" />
-      <point x="0.0" y="15.5" />
-    </edge>
-    <edge source="kw.test.jdgc.factory.Carfactory" target="kw.test.jdgc.Car">
-      <point x="36.0" y="-15.5" />
-      <point x="160.78125" y="137.0" />
-      <point x="179.5" y="137.0" />
-      <point x="179.5" y="61.0" />
-      <point x="162.84375" y="61.0" />
-      <point x="8.5" y="15.5" />
+      <point x="0.0" y="-17.5" />
+      <point x="43.0" y="60.0" />
+      <point x="74.5" y="60.0" />
+      <point x="-19.0" y="17.5" />
     </edge>
     <edge source="kw.test.jdgc.impl.Byd" target="kw.test.jdgc.Car">
-      <point x="0.0" y="-15.5" />
-      <point x="130.0" y="61.0" />
-      <point x="145.84375" y="61.0" />
-      <point x="-8.5" y="15.5" />
+      <point x="0.0" y="-17.5" />
+      <point x="144.0" y="60.0" />
+      <point x="112.5" y="60.0" />
+      <point x="19.0" y="17.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-37.214285714285666" y="-37.571428571428555" />
-  <SelectedNodes />
+  <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="132.53846153846155" y="130.5769230769231" />
+  <SelectedNodes>
+    <node>kw.test.jdgc.factory.Carfactory</node>
+  </SelectedNodes>
   <Categories />
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>

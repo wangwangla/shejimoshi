@@ -11,7 +11,14 @@ import java.io.Serializable;
  */
 public class LanhanSingleton implements Serializable {
     private static LanhanSingleton instance=null;
-    private LanhanSingleton(){}
+    private static int x = 0;
+    private LanhanSingleton(){
+//        System.out.printf("=======================");
+//        if (x > 0){
+//            throw new RuntimeException("滚！");
+//        }
+        x++;
+    }
     public static synchronized  LanhanSingleton getInstance() {
         if (instance == null) {
             instance = new LanhanSingleton();
@@ -21,7 +28,7 @@ public class LanhanSingleton implements Serializable {
 
     //未防止反序列化的防破解方法
     //当请求来的时候，就可以直接的返回这个对象，而不是重新建对象
-    private Object readResolve()
+    public Object readResolve()
     {
         return instance;
     }
@@ -31,4 +38,5 @@ public class LanhanSingleton implements Serializable {
             System.out.println(LanhanSingleton.getInstance()+"==============");
         }
     }
+
 }

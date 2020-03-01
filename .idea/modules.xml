@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/celiemoshi/celiemoshi.iml" filepath="$PROJECT_DIR$/celiemoshi/celiemoshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/fwzms/fwzms.iml" filepath="$PROJECT_DIR$/fwzms/fwzms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proto/proto.iml" filepath="$PROJECT_DIR$/proto/proto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/shejimoshi.iml" filepath="$PROJECT_DIR$/.idea/shejimoshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletonpojie/singletonpojie.iml" filepath="$PROJECT_DIR$/singletonpojie/singletonpojie.iml" />

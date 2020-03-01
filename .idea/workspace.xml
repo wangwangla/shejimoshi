@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/Pojie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Demo.java" afterDir="false" />
+    <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="修改笔记">
+      <change afterPath="$PROJECT_DIR$/proto/proto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/src/kw/test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/Pojie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/ser/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/ser/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/EnumSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/Facroty.uml" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/Facroty.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/kw/test/gcff/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/kw/test/gcff/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/kw/test/jdgc/App/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/kw/test/jdgc/App/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/Pojie.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/Pojie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/fanxuliehua.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/新建文本文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhmo/src/kw/test/demo/Body.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhmo/src/kw/test/demo/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zszms/src/kw/test/demo/Brid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zszms/src/kw/test/demo/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zszms/src/kw/test/demo/impl/SparrowDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zszms/src/kw/test/demo/impl/sparrow.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +235,7 @@
       <workItem from="1532865321915" duration="83000" />
       <workItem from="1532911642696" duration="41000" />
       <workItem from="1533002058426" duration="295000" />
-      <workItem from="1583045350636" duration="4221000" />
+      <workItem from="1583045350636" duration="6823000" />
     </task>
     <task id="LOCAL-00001" summary="懒汉式破解，使用反射的方法">
       <created>1529497716007</created>
@@ -334,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530442457357</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="修改笔记">
+      <created>1583055830956</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1583055830956</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,29 +392,42 @@
     <MESSAGE value="完善笔记" />
     <MESSAGE value="建造者模式" />
     <MESSAGE value="策略模式的使用和处理方式" />
-    <option name="LAST_COMMIT_MESSAGE" value="策略模式的使用和处理方式" />
+    <MESSAGE value="修改笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改笔记" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="829" height="246" key="GridCell.Tab.0.bottom" timestamp="1583055779503">
+    <state x="507" y="108" key="CommitChangelistDialog2" timestamp="1583055830016">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="829" height="246" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779503" />
-    <state width="829" height="246" key="GridCell.Tab.0.center" timestamp="1583055779503">
+    <state x="507" y="108" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1583055830016" />
+    <state width="1300" height="388" key="GridCell.Tab.0.bottom" timestamp="1583060905428">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="829" height="246" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779503" />
-    <state width="829" height="246" key="GridCell.Tab.0.left" timestamp="1583055779502">
+    <state width="1300" height="388" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905428" />
+    <state width="1300" height="388" key="GridCell.Tab.0.center" timestamp="1583060905428">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="829" height="246" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779502" />
-    <state width="829" height="246" key="GridCell.Tab.0.right" timestamp="1583055779503">
+    <state width="1300" height="388" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905428" />
+    <state width="1300" height="388" key="GridCell.Tab.0.left" timestamp="1583060905427">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="829" height="246" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1583055779503" />
+    <state width="1300" height="388" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905427" />
+    <state width="1300" height="388" key="GridCell.Tab.0.right" timestamp="1583060905428">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1300" height="388" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905428" />
     <state x="357" y="159" key="SettingsEditor" timestamp="1583054474505">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="357" y="159" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1583054474505" />
+    <state x="241" y="130" key="new project wizard" timestamp="1583057763947">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="241" y="130" key="new project wizard/0.0.1707.1027@0.0.1707.1027" timestamp="1583057763947" />
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1583056900194">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1583056900194" />
   </component>
   <component name="masterDetails">
     <states>
