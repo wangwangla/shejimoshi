@@ -9,10 +9,11 @@ package kw.test.danli;
  */
 public class InnerClassSingleton {
     private InnerClassSingleton(){}
-    private static class Instance
-    {
+
+    private static class Instance {
         private static final InnerClassSingleton instance = new InnerClassSingleton();
     }
+
     public static InnerClassSingleton getInatce(){
         return Instance.instance;
     }

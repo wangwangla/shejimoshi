@@ -7,7 +7,8 @@ import kw.test.fwzms.vister.Vister;
  * auther   kangwang
  */
 public class Element extends AmmeterElement {
-    double count;
+    private double count;
+
     @Override
     public void accept(Vister v) {
         count =  v.visit(this);

@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/proto/proto.iml" filepath="$PROJECT_DIR$/proto/proto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/shejimoshi.iml" filepath="$PROJECT_DIR$/.idea/shejimoshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/singletonpojie/singletonpojie.iml" filepath="$PROJECT_DIR$/singletonpojie/singletonpojie.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/ztms/ztms.iml" filepath="$PROJECT_DIR$/ztms/ztms.iml" />
     </modules>

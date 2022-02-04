@@ -2,16 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="修改笔记">
-      <change afterPath="$PROJECT_DIR$/porxy/porxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porxy/src/kw/test/demo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porxy/src/kw/test/demo/impl/WorkImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porxy/src/kw/test/demo/interf/WorkInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porxy/src/kw/test/demo/proxy/InstanceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porxy/src/kw/test/demo/proxy/InstanceProxy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porxy/src/kw/test/demo/proxy/InstanceProxy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/BydFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/impl/VipVister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.访问者模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/24.访问者模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/Design Pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/doc/0.进入设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/doc/1.单例模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/out/production/Design Pattern/com/jianxiansiqi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/out/production/Design Pattern/com/jianxiansiqi/abstrac/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/jianxiansiqi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/jianxiansiqi/abstrac/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/four/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/one/BlueDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/one/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/one/RedDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/BlueDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/DuckQuack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/FlyDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/RedDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/two/BlueDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/two/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/two/RedDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Byd.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Byd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/singletonpojie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/kw/test/demo/LanhanSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/kw/test/demo/PoJie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/kw/test/demo/fanxuliehua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/App/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/impl/Aodi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/impl/Byd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EhanSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/Pojie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/SchongJCSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/ser/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/ser/Demo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +93,11 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -56,7 +106,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/porxy/lib/asm-8.0.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -195,6 +245,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -335,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583055830956</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="修改笔记">
+      <created>1643895296682</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643895296682</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,13 +414,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="懒汉式破解，使用反射的方法" />
@@ -380,82 +437,6 @@
     <MESSAGE value="策略模式的使用和处理方式" />
     <MESSAGE value="修改笔记" />
     <option name="LAST_COMMIT_MESSAGE" value="修改笔记" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="233" y="42" key="#Project_Structure" timestamp="1589416389496">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="233" y="42" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1589416389496" />
-    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1589417512975">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1589417512975" />
-    <state x="507" y="108" key="CommitChangelistDialog2" timestamp="1583060945205">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="507" y="108" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1583060945205" />
-    <state x="545" y="139" key="FileChooserDialogImpl" timestamp="1589418129347">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="545" y="139" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1589418129347" />
-    <state width="619" height="236" key="GridCell.Tab.0.bottom" timestamp="1589418649258">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1589418649258" />
-    <state width="1300" height="388" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905428" />
-    <state width="619" height="236" key="GridCell.Tab.0.center" timestamp="1589418649258">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1589418649258" />
-    <state width="1300" height="388" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905428" />
-    <state width="619" height="236" key="GridCell.Tab.0.left" timestamp="1589418649258">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1589418649258" />
-    <state width="1300" height="388" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905427" />
-    <state width="619" height="236" key="GridCell.Tab.0.right" timestamp="1589418649258">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1589418649258" />
-    <state width="1300" height="388" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1583060905428" />
-    <state width="619" height="236" key="GridCell.Tab.1.bottom" timestamp="1589418649580">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1589418649580" />
-    <state width="619" height="236" key="GridCell.Tab.1.center" timestamp="1589418649580">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1589418649580" />
-    <state width="619" height="236" key="GridCell.Tab.1.left" timestamp="1589418649580">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1589418649580" />
-    <state width="619" height="236" key="GridCell.Tab.1.right" timestamp="1589418649580">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state width="619" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1589418649580" />
-    <state x="244" y="0" key="SettingsEditor" timestamp="1589418137775">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="244" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1589418137775" />
-    <state x="357" y="159" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1583054474505" />
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1583060948898">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1583060948898" />
-    <state x="550" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1583650093263">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="550" y="342" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1583650093263" />
-    <state x="14" y="0" key="new project wizard" timestamp="1589416379619">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="14" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1589416379619" />
-    <state x="241" y="130" key="new project wizard/0.0.1707.1027@0.0.1707.1027" timestamp="1583057763947" />
-    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1583056900194">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1583056900194" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

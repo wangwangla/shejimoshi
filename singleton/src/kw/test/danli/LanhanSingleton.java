@@ -13,10 +13,9 @@ public class LanhanSingleton implements Serializable {
     private static LanhanSingleton instance=null;
     private static int x = 0;
     private LanhanSingleton(){
-//        System.out.printf("=======================");
-//        if (x > 0){
-//            throw new RuntimeException("滚！");
-//        }
+        if (x > 0){
+            throw new RuntimeException("滚！");
+        }
         x++;
     }
     public static synchronized  LanhanSingleton getInstance() {

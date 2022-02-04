@@ -1,6 +1,6 @@
 package kw.test.gcff.impl;
 
-import kw.test.jdgc.Car;
+import kw.test.gcff.Car;
 
 /**
  * auther   kangwang

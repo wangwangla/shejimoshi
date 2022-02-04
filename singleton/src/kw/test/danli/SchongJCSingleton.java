@@ -11,7 +11,7 @@ package kw.test.danli;
  */
 public class SchongJCSingleton {
     private SchongJCSingleton(){}
-    private static SchongJCSingleton instance = null ;
+    private volatile static SchongJCSingleton instance = null ;
 
     public static SchongJCSingleton getInstance() {
         if(instance == null)
