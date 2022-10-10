@@ -8,6 +8,10 @@ public class AverageScore {
     Strategy strategy ;
     double []a;
     public AverageScore(Strategy strategy){
+        a = new double[100];
+        for (int i= 0; i < a.length; i++) {
+            a[i] = i;
+        }
         this.strategy = strategy ;
     }
     public double getAverageScore(){

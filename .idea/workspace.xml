@@ -2,65 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="修改笔记">
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/BydFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/vister/impl/VipVister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celiemoshi/src/kw/test/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24.访问者模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/24.访问者模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/Design Pattern.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/doc/0.进入设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/doc/1.单例模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/out/production/Design Pattern/com/jianxiansiqi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/out/production/Design Pattern/com/jianxiansiqi/abstrac/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/jianxiansiqi/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/jianxiansiqi/abstrac/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/four/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/one/BlueDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/one/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/one/RedDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/BlueDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/DuckQuack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/FlyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/three/RedDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/two/BlueDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/two/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Pattern/src/com/kw/celue/verion/two/RedDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Byd.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/kw/test/gcff/impl/Byd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/fwzms/src/kw/test/fwzms/element/impl/Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/InnerClassSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/LanhanSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/SchongJCSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/kw/test/danli/ser/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/singletonpojie.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/kw/test/demo/LanhanSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/kw/test/demo/PoJie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/kw/test/demo/fanxuliehua.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/App/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/impl/Aodi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/factory/kw/test/jdgc/impl/Byd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EhanSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$Instance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/Pojie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/SchongJCSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/ser/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/ser/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/celiemoshi/src/kw/test/celue/AverageScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/celiemoshi/src/kw/test/celue/AverageScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ztms/ztms.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +82,21 @@
       <recent name="kw.test.jzzms.EcopeTower" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstanceProxy1">
+  <component name="RunManager" selected="Application.EnumSingleton">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.App" />
+      <module name="celiemoshi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kw.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.demo.App" />
       <module name="porxy" />
@@ -192,20 +153,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pojie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.test.danli.Pojie" />
-      <module name="singleton" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kw.test.danli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -229,19 +176,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EnumSingleton" />
-      <item itemvalue="Application.Pojie" />
       <item itemvalue="Application.InstanceProxy2" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.InstanceProxy1" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.EnumSingleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumSingleton" />
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.InstanceProxy1" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.InstanceProxy2" />
-        <item itemvalue="Application.Pojie" />
-        <item itemvalue="Application.EnumSingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643895296682</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="修改笔记">
+      <created>1643987704133</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643987704133</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

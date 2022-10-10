@@ -9,7 +9,7 @@ package kw.test.danli;
  *
  * 最安全的一个
  */
-public enum  EnumSingleton {
+public enum EnumSingleton {
     INSTANCE;
 
     public static void main(String[] args) {
