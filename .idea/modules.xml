@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Oberver/Oberver.iml" filepath="$PROJECT_DIR$/Oberver/Oberver.iml" />
       <module fileurl="file://$PROJECT_DIR$/celiemoshi/celiemoshi.iml" filepath="$PROJECT_DIR$/celiemoshi/celiemoshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/fwzms/fwzms.iml" filepath="$PROJECT_DIR$/fwzms/fwzms.iml" />
