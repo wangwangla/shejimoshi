@@ -8,8 +8,7 @@ import kw.test.jdgc.impl.Byd;
  * auther   kangwang
  */
 public class Carfactory {
-    public static Car CreateCar(String type)
-    {
+    public static Car CreateCar(String type) {
         if("Aodi".equals(type)){
             return new Aodi();
         }else if("Byd".equals(type)){

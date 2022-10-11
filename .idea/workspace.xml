@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="修改笔记">
-      <change afterPath="$PROJECT_DIR$/Oberver/src/kw/test/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oberver/src/kw/test/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oberver/src/kw/test/subject/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oberver/src/kw/test/subject/impl/PeopleData.java" afterDir="false" />
+    <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="复习一下">
+      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/abstr/ChiesePs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/abstr/JanpPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/DoubleLockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/WeiSinglton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.单例模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.装饰者.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.访问者模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/11.访问者模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.Mvc模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/7.Mvc模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.建造者模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.建造者模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.原型模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.建造者.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/0.补充.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/1.基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/说明1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/AverageScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/StrategyA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/StrategyB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/nocelue/AverageScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EhanSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/Pojie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/SchongJCSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/创建型/4.工厂设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/创建型/4.工厂设计模式1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/创建型/5.建造者模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/概述/0.进入设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/结构型/14.享元模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/结构型/15.外观模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/结构型/17.桥接模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/结构型/3.装饰者模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/结构型/8.适配器模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/结构型/9.代理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/韩顺平视频/1.进入设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/韩顺平视频/2.单例设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/韩顺平视频/3.工厂设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/韩顺平视频/4.原型模式.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +93,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/fwzms/src/kw/test/fwzms" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/factory/src/kw/ps" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -354,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665416742302</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="复习一下">
+      <created>1665448394385</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665448394385</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,7 +446,8 @@
     <MESSAGE value="建造者模式" />
     <MESSAGE value="策略模式的使用和处理方式" />
     <MESSAGE value="修改笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改笔记" />
+    <MESSAGE value="复习一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="复习一下" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
