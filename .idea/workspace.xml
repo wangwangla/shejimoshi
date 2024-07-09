@@ -5,75 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="复习一下">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-document.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-document.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-factory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-factory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/Readm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/AbstractDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/HasModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/HasPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/HasType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/enums/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/Army.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/Castle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/factory/KingdomFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/ElfArmy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/ElfCastle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/ElfKing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Abstract-factory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Abstract-factory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Abstract-factory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Abstract-factory.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.进入设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.单例模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.模板方法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.访问者模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.责任链模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.命令模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.享元模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.外观模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16.解释器.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.桥接模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18.中介模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19.备忘模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.观察者模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20.策列模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21.空对象模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22.状态模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/23.迭代器模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.工厂设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.原型模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.建造者模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.装饰者模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.Mvc模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.适配器模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.代理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/补充.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract-factory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-factory.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,12 +28,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Abstract-document" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -138,18 +68,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/28188/OneDrive/桌面/shejimoshi",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/28188/OneDrive/桌面/shejimoshi&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="kw.test.jzzms" />
