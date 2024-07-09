@@ -1,64 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="复习一下">
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/abstr/ChiesePs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/abstr/JanpPs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/kw/ps/factory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/DoubleLockSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton/src/kw/test/danli/WeiSinglton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-document.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-document.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-factory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Abstract-factory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/Readm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/AbstractDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/HasModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/HasPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/HasType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-document/src/main/java/com/wk/document/domain/enums/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/Army.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/Castle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/factory/KingdomFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/ElfArmy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/ElfCastle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/ElfKing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.单例模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.装饰者.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/24.访问者模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/11.访问者模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25.Mvc模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/7.Mvc模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.建造者模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.建造者模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.原型模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.建造者.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/0.补充.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/1.基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/kw/test/jdgc/factory/Carfactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory/src/说明1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/AverageScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/StrategyA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/celue/StrategyB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/celiemoshi/kw/test/nocelue/AverageScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EhanSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/EnumSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton$Instance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/InnerClassSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/LanhanSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/Pojie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonpojie/src/production/singleton/kw/test/danli/SchongJCSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/创建型/4.工厂设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/创建型/4.工厂设计模式1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/创建型/5.建造者模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/概述/0.进入设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/结构型/14.享元模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/结构型/15.外观模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/结构型/17.桥接模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/结构型/3.装饰者模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/结构型/8.适配器模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/结构型/9.代理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/韩顺平视频/1.进入设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/韩顺平视频/2.单例设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/韩顺平视频/3.工厂设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/韩顺平视频/4.原型模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.进入设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.单例模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.模板方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.访问者模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.责任链模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.命令模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.享元模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.外观模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.解释器.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.桥接模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.中介模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.备忘模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.观察者模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.策列模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.空对象模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22.状态模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.迭代器模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.工厂设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.原型模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.建造者模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.装饰者模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.Mvc模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.适配器模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.代理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/补充.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Abstract-document">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Abstract-factory">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Abstract-document" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
+        <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -66,11 +118,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Maven" />
-        <option name="mavenHome" value="C:/apache-maven-3.0.5" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../apache-maven-3.0.5" />
         <option name="userSettingsFile" value="D:\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -83,25 +138,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/factory/src/kw/ps" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/28188/OneDrive/桌面/shejimoshi",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="kw.test.jzzms" />
@@ -114,6 +162,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\28188\OneDrive\桌面\shejimoshi\doc" />
       <recent name="E:\learn\shejimoshi" />
       <recent name="E:\shejimoshi\singletonpojie\src\kw\test\demo" />
     </key>
@@ -124,7 +173,7 @@
       <recent name="kw.test.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumSingleton">
+  <component name="RunManager" selected="Application.com.wk.document.App">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.App" />
       <module name="celiemoshi" />
@@ -181,22 +230,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceProxy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.test.demo.proxy.InstanceProxy2" />
-      <module name="porxy" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kw.test.demo.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="com.wk.document.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wk.document.App" />
+      <module name="Abstract-document.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wk.document.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,7 +267,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InstanceProxy2" />
+      <item itemvalue="Application.com.wk.document.App" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.InstanceProxy1" />
       <item itemvalue="Application.App (1)" />
@@ -226,11 +275,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.wk.document.App" />
         <item itemvalue="Application.EnumSingleton" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.InstanceProxy1" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.InstanceProxy2" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +478,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="懒汉式破解，使用反射的方法" />
