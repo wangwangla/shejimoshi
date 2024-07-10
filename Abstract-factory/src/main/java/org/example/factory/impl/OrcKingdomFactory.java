@@ -5,23 +5,23 @@ import org.example.Castle;
 import org.example.King;
 import org.example.factory.KingdomFactory;
 import org.example.impl.ElfArmy;
-import org.example.impl.ElfCastle;
-import org.example.impl.ElfKing;
+import org.example.impl.OrcArmy;
+import org.example.impl.OrcCastle;
+import org.example.impl.OrcKing;
 
-public class EleKingdomFactory implements KingdomFactory {
+public class OrcKingdomFactory implements KingdomFactory {
     @Override
     public Castle createCastle() {
-//        return new C;
-        return new ElfCastle();
+        return new OrcCastle();
     }
 
     @Override
     public King createKing() {
-        return new ElfKing();
+        return new OrcKing();
     }
 
     @Override
     public Army createArmy() {
-        return new ElfArmy();
+        return new OrcArmy();
     }
 }

@@ -8,6 +8,9 @@
       <module name="Abstract-factory" target="11" />
       <module name="Abstract-factory.main" target="11" />
       <module name="Abstract-factory.test" target="11" />
+      <module name="Activie-Object" target="11" />
+      <module name="Activie-Object.main" target="11" />
+      <module name="Activie-Object.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
