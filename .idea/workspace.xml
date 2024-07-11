@@ -5,25 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Activie-Object.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Activie-Object.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/Readm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/Kingdom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/factory/impl/OrcKingdomFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/OrcArmy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/OrcCastle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/impl/OrcKing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activie-Object.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activie-Object/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activie-Object/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activie-Object/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activie-Object/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activie-Object/src/main/java/org/example/ActiveCreature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Acyclic-Visitor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Acyclic-Visitor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/AllModemVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ConfigureForDosVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ConfigureForUnixVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/Hayes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/HayesVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/Modem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ModemVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/Zoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ZoomVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/FishingBoatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/RowingBoat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Activie-Object.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Activie-Object.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Activie-Object.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Activie-Object.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shejimoshi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shejimoshi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/factory/impl/EleKingdomFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/factory/impl/EleKingdomFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activie-Object.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Activie-Object.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activie-Object/src/main/java/org/example/ActiveCreature.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activie-Object/src/main/java/org/example/ActiveCreature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +47,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/Activie-Object">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Adapter">
       <ProjectState />
     </projectState>
   </component>
@@ -104,6 +116,7 @@
       <recent name="kw.test.jzzms.EcopeTower" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\28188\OneDrive\桌面\shejimoshi" />
       <recent name="E:\shejimoshi\porxy\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -121,7 +134,7 @@
       <recent name="kw.test.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.wk.document.App">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.App" />
       <module name="celiemoshi" />
@@ -129,20 +142,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kw.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.test.demo.App" />
-      <module name="porxy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kw.test.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,6 +170,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kw.test.demo.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="shejimoshi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +228,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.com.wk.document.App" />
-      <item itemvalue="Application.App" />
       <item itemvalue="Application.InstanceProxy1" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.EnumSingleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.wk.document.App" />
         <item itemvalue="Application.EnumSingleton" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.InstanceProxy1" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720537861802</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="其实并不知道有什么用，就当见世面了">
+      <option name="closed" value="true" />
+      <created>1720620385902</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1720620385902</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +473,8 @@
     <MESSAGE value="修改笔记" />
     <MESSAGE value="复习一下" />
     <MESSAGE value="save" />
-    <option name="LAST_COMMIT_MESSAGE" value="save" />
+    <MESSAGE value="其实并不知道有什么用，就当见世面了" />
+    <option name="LAST_COMMIT_MESSAGE" value="其实并不知道有什么用，就当见世面了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

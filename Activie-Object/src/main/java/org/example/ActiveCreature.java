@@ -15,6 +15,9 @@ public abstract class ActiveCreature {
         this.name = name;
         this.status = 0;
         this.requests = new LinkedBlockingDeque<>();
+        /**
+         * 使用一个线程，来查看队列中是否有任务  如果有就执行
+         */
         thread = new Thread(new Runnable() {
             @Override
             public void run() {
