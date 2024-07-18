@@ -18,6 +18,9 @@
       <module name="Adapter" target="11" />
       <module name="Adapter.main" target="11" />
       <module name="Adapter.test" target="11" />
+      <module name="Ambassador" target="11" />
+      <module name="Ambassador.main" target="11" />
+      <module name="Ambassador.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

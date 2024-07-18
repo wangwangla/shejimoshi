@@ -5,34 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Acyclic-Visitor.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Acyclic-Visitor.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/AllModemVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ConfigureForDosVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ConfigureForUnixVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/Hayes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/HayesVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/Modem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ModemVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/Zoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acyclic-Visitor/src/main/java/org/example/ZoomVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/Captain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/FishingBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/FishingBoatAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter/src/main/java/org/example/RowingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Ambassador.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Ambassador.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/RemoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/RemoteServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/RemoteServiceStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/ServiceAmbassador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/util/RandomProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Activie-Object.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Activie-Object.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Activie-Object.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Activie-Object.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shejimoshi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shejimoshi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activie-Object.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Activie-Object.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activie-Object/src/main/java/org/example/ActiveCreature.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activie-Object/src/main/java/org/example/ActiveCreature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +39,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/Adapter">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ambassador">
       <ProjectState />
     </projectState>
   </component>
@@ -112,6 +104,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
       <recent name="kw.test.jzzms" />
       <recent name="kw.test.jzzms.EcopeTower" />
     </key>
@@ -134,7 +127,7 @@
       <recent name="kw.test.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.App" />
       <module name="celiemoshi" />
@@ -163,13 +156,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceProxy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.test.demo.proxy.InstanceProxy1" />
-      <module name="porxy" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Ambassador.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kw.test.demo.proxy.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,19 +221,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.com.wk.document.App" />
-      <item itemvalue="Application.InstanceProxy1" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.EnumSingleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.wk.document.App" />
         <item itemvalue="Application.EnumSingleton" />
         <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.InstanceProxy1" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +422,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720620385902</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="感觉一般把">
+      <option name="closed" value="true" />
+      <created>1720708113907</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720708113907</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +475,8 @@
     <MESSAGE value="复习一下" />
     <MESSAGE value="save" />
     <MESSAGE value="其实并不知道有什么用，就当见世面了" />
-    <option name="LAST_COMMIT_MESSAGE" value="其实并不知道有什么用，就当见世面了" />
+    <MESSAGE value="感觉一般把" />
+    <option name="LAST_COMMIT_MESSAGE" value="感觉一般把" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
