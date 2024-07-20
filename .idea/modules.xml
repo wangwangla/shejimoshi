@@ -21,7 +21,16 @@
       <module fileurl="file://$PROJECT_DIR$/Ambassador.iml" filepath="$PROJECT_DIR$/Ambassador.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ambassador.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ambassador.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ambassador.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ambassador.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lombok.iml" filepath="$PROJECT_DIR$/Lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lombok.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lombok.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lombok.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lombok.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oberver/Oberver.iml" filepath="$PROJECT_DIR$/Oberver/Oberver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visitor.iml" filepath="$PROJECT_DIR$/Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Visitor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Visitor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Visitor.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Visitor.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anti-corruption-layer.iml" filepath="$PROJECT_DIR$/anti-corruption-layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anti-corruption-layer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/anti-corruption-layer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anti-corruption-layer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/anti-corruption-layer.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/celiemoshi/celiemoshi.iml" filepath="$PROJECT_DIR$/celiemoshi/celiemoshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/fwzms/fwzms.iml" filepath="$PROJECT_DIR$/fwzms/fwzms.iml" />

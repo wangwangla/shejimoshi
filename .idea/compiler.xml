@@ -21,6 +21,15 @@
       <module name="Ambassador" target="11" />
       <module name="Ambassador.main" target="11" />
       <module name="Ambassador.test" target="11" />
+      <module name="anti-corruption-layer" target="11" />
+      <module name="anti-corruption-layer.main" target="11" />
+      <module name="anti-corruption-layer.test" target="11" />
+      <module name="Lombok" target="11" />
+      <module name="Lombok.main" target="11" />
+      <module name="Lombok.test" target="11" />
+      <module name="Visitor" target="11" />
+      <module name="Visitor.main" target="11" />
+      <module name="Visitor.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
