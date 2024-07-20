@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab83936-7c98-4052-a51c-63d05517ce7a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_renjin_tools_3_5_beta72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Lombok.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Lombok.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Visitor.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Visitor.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/anti-corruption-layer.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/anti-corruption-layer.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ambassador/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/src/main/java/org/example/MyGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/Commander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/CommanderVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/Sergeant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/SergeantVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/SoldierVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visitor/src/main/java/org/example/UnitVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/src/main/java/org/example/system/AntiCorruptionLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/src/main/java/org/example/system/DataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/src/main/java/org/example/system/ShopExcetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/src/main/java/org/example/system/modern/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/src/main/java/org/example/system/modern/ModernOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anti-corruption-layer/src/main/java/org/example/system/modern/ModernShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/RemoteServiceStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ambassador/src/main/java/org/example/RemoteServiceStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract-document/Readm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-document/READM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract-factory/Readm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-factory/READM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-factory/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,18 +86,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/28188/OneDrive/桌面/shejimoshi&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "E:/learndir/SwashbucklerDiary",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
@@ -162,7 +123,7 @@
       <recent name="kw.test.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.com.wk.document.App">
     <configuration name="EnumSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.test.danli.EnumSingleton" />
       <module name="singleton" />
@@ -473,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721316656759</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="访问者模式">
+      <option name="closed" value="true" />
+      <created>1721440937392</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721440937392</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +489,8 @@
     <MESSAGE value="其实并不知道有什么用，就当见世面了" />
     <MESSAGE value="感觉一般把" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="访问者模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="访问者模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
