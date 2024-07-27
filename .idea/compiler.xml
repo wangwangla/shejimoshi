@@ -24,6 +24,9 @@
       <module name="anti-corruption-layer" target="11" />
       <module name="anti-corruption-layer.main" target="11" />
       <module name="anti-corruption-layer.test" target="11" />
+      <module name="ChainPattern" target="11" />
+      <module name="ChainPattern.main" target="11" />
+      <module name="ChainPattern.test" target="11" />
       <module name="Lombok" target="11" />
       <module name="Lombok.main" target="11" />
       <module name="Lombok.test" target="11" />

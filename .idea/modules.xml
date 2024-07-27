@@ -21,6 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/Ambassador.iml" filepath="$PROJECT_DIR$/Ambassador.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ambassador.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ambassador.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ambassador.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ambassador.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainPattern.iml" filepath="$PROJECT_DIR$/ChainPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChainPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ChainPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChainPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ChainPattern.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lombok.iml" filepath="$PROJECT_DIR$/Lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lombok.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lombok.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lombok.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lombok.test.iml" />

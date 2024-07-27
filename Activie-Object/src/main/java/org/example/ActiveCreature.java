@@ -23,12 +23,20 @@ public abstract class ActiveCreature {
             public void run() {
                 boolean infinite = true;
                 while (infinite){
-                    try {
-                        requests.take().run();
-                    } catch (InterruptedException e) {
+                    if (requests.size()>0) {
+                        try {
+                            requests.take().run();
+                        } catch (InterruptedException e) {
 //                        throw new RuntimeException(e);
-                        infinite = false;
-                        Thread.currentThread().interrupt();
+                            infinite = false;
+                            Thread.currentThread().interrupt();
+                        }
+                    }else {
+                        try {
+                            Thread.sleep(1000);
+                        } catch (InterruptedException e) {
+                            throw new RuntimeException(e);
+                        }
                     }
                 }
             }
